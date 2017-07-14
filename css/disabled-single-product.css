@@ -1,0 +1,4 @@
+.single_add_to_cart_button, .quantity {
+	display: none !important;
+	visibility: hidden !important;
+}

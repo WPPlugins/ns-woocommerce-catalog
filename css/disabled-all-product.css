@@ -1,0 +1,4 @@
+.add_to_cart_button, .ajax_add_to_cart, li.mini-cart, .mini-cart, .cart-item, .et-cart-info {
+	display: none !important;
+	visibility: hidden !important;
+}
